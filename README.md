@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tina!
 - 👀 I’m interested in data analytics, data science, and machine learning.
-- 🌱 I’m currently learning object oriented programming, multiple regression.
+- 🌱 I’m currently learning object oriented programming and multiple regression.
 - 📫 How to reach me: tina111.chang@gmail.com
 
 <!---
